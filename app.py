@@ -2,7 +2,7 @@ import pandas as pd
 import plotly.graph_objects as go 
 import streamlit as st
 
-car_data = pd.read_csv('../vehicles_us.csv')
+car_data = pd.read_csv('vehicles_us.csv')
 
 st.header('Sprint 7 - Proyecto')
 
