@@ -1,1 +1,1 @@
-# Proyecto-sprint-7
+# En este proyecto primero copie el ropositorio de git para poder empezar a trabajarlo en VSCODE, posterior descargue el CSV donde se encuntran los datos que usaremos, posteriro a ello con los codigos, y la creacion la API web lee los datos del CSV para poder crear la grafica de dispersion y el histograma.
